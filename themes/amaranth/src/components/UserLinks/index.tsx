@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import styled from "styled-components";
 
 import { MailSend, Rss } from "@styled-icons/boxicons-regular";

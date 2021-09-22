@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { Disqus as DisqusPlugin } from "gatsby-plugin-disqus";
 
 import { useConfig } from "../../config";

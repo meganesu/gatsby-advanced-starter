@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 
-import React from "react";
+import * as React from "react";
 import { Helmet } from "react-helmet";
 import { render, screen } from "@testing-library/react";
 import "jest-styled-components";

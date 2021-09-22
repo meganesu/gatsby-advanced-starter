@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { QueryClient, QueryClientProvider } from "react-query";
 import { renderHook, act } from "@testing-library/react-hooks";
 import { fireEvent } from "@testing-library/dom";

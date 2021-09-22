@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import styled from "styled-components";
 import { Link as GatsbyLink } from "gatsby";
 import { Exit } from "@styled-icons/boxicons-regular";

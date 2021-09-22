@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import styled, { AnyStyledComponent } from "styled-components";
 
 import _ from "lodash";

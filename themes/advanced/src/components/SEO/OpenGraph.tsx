@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 
 import { PostData, SeoData, OpenGraphTagList } from "./types";
 import { UserData, WebsiteData } from "../../config";

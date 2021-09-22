@@ -1,5 +1,5 @@
 import { isObject } from "lodash";
-import React from "react";
+import * as React from "react";
 import { UserData, WebsiteData, OrganizationData } from "../../../config";
 import { SeoData, PostData } from "../types";
 

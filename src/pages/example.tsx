@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 
 const ExamplePage = (): JSX.Element => <h1>Sample content</h1>;
 
